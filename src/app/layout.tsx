@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "St Joseph's School",
+  title: "St Joseph&apos;s School",
   description: "Next.js School Management System",
 };
 
